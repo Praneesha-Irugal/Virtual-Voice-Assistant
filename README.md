@@ -28,4 +28,4 @@ Speech Recognition:- Since we’re building an Application of voice assistant, o
 ![image](https://user-images.githubusercontent.com/56305868/134963341-399405ec-2f27-4347-9960-be7c685321c0.png)
 
 
-You can change voice Id to “0” for Male voice while using assistant here we are using Female voice for all text to speech
+You can change voice Id to “0” for Male voice while using assistant here we are using Female voice for all text to speech.
