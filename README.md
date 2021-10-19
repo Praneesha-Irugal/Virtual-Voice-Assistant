@@ -19,7 +19,7 @@ import pyjokes
 import smtplib
 from selenium import webdriver
 
-Pyttsx3:- This module is used for the conversion of text to speech in a program it works offline. To install this module type the below command in the terminal.
+`Pyttsx3`:- This module is used for the conversion of text to speech in a program it works offline. To install this module type the below command in the terminal.
 pip install pyttsx3
 
 Speech Recognition:- Since we’re building an Application of voice assistant, one of the most important things in this is that your assistant recognizes your voice (means what you want to say/ ask). To install this module type the below command in the terminal.
